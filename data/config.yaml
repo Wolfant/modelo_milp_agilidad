@@ -1,0 +1,12 @@
+hours_per_point: 4.076923076923077
+bugs_per_sprint: 5
+max_points_per_dev: 13
+lambda_people_penalty: 0.1
+require_release_for_roles:
+- BE
+- FE
+min_hours_to_count_release: 2.0
+qa_coverage_factor: 1.0
+wip_factor_QA_capacity: 0.9
+forbid_points:
+- 13

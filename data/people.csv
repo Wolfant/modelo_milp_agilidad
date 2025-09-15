@@ -1,0 +1,12 @@
+person,role,capacity_hours,can_roles,active
+Kevin,BE,53,BE,1
+Geampier,BE,53,BE,1
+Junior,BE,53,BE,1
+Jair,BE,53,BE,1
+Manuel,BE,53,BE,1
+Jefferson,FE,53,FE,1
+Daniel,FE,53,FE,1
+Luis,QA,53,QA,1
+Veronica,QA,53,QA,1
+Rodolfo,TL,53,TL,1
+Antonio,ARQ,53,ARQ,1

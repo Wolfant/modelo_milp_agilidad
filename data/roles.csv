@@ -1,0 +1,6 @@
+role,share_of_hours,meeting_load_per_story_hours,bug_hours_per_bug
+BE,0.6,0.0,2.0
+FE,0.25,0.0,0.0
+QA,0.15,1.0,1.0
+TL,0.0,0.0,3.0
+ARQ,0.0,0.0,2.0

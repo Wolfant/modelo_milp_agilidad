@@ -1,0 +1,12 @@
+person,role,hours_used,capacity,utilization,active(y),release(rel)
+Kevin,BE,46.92,53.0,0.885,1,1
+Geampier,BE,43.58,53.0,0.822,1,1
+Junior,BE,38.25,53.0,0.722,1,1
+Jair,BE,40.85,53.0,0.771,1,1
+Manuel,BE,53.0,53.0,1.0,1,1
+Jefferson,FE,39.75,53.0,0.75,1,1
+Daniel,FE,53.0,53.0,1.0,1,1
+Luis,QA,38.91,53.0,0.734,1,0
+Veronica,QA,41.74,53.0,0.788,1,0
+Rodolfo,TL,0.0,53.0,0.0,0,0
+Antonio,ARQ,0.0,53.0,0.0,0,0

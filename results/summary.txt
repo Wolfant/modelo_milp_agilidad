@@ -1,0 +1,14 @@
+Status: Optimal
+Objective (value - lambda*people): 153.700
+Delivered value: 154.600
+Active people: 9
+Stories selected: 25 / 25
+Dependencies respected: 6
+
+Parameters:
+  hours_per_point=4.0769
+  lambda_people_penalty=0.1
+  bugs_per_sprint=5
+  max_points_per_dev=13
+  qa_coverage_factor=1.0
+  wip_factor_QA_capacity=0.9

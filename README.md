@@ -30,7 +30,7 @@ Se recomienda crear un virtual environment para isolar los requerimientos del mo
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -f requirements.txt
-python3 solve_sprint.py
+python3 solver/solve_sprint.py
 ```
 
 Resultados en `results/`:
